@@ -3,3 +3,6 @@
 ``` javascript
 var chau = "Adios";
 ```
+- [ ] Leer
+- [ ] Ser millonario
+- [X] No estar quemado
